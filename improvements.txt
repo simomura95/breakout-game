@@ -1,0 +1,5 @@
+POSSIBLE IMPROVEMENTS:
+- add more screens, maybe with different configurations
+- add a more elaborate bouncing logic on the paddle (not symmetric, but depending on WHERE on the paddle the ball bounces)
+- improvements to fonts, background and style in general, to make the game more beautiful visually
+- minor tweaking on numeric parameters, e.g. checks on bounces, screen size, block dimension and distance...
