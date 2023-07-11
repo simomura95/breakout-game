@@ -1,4 +1,4 @@
-# https://en.wikipedia.org/wiki/Breakout_(video_game)
+# Game description and rules: https://en.wikipedia.org/wiki/Breakout_(video_game)
 from turtle import Screen
 import time
 from paddle import Paddle
